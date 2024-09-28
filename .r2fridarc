@@ -1,0 +1,17 @@
+#r2frida
+e anal.fixed.bits=true
+e anal.fixed.arch=true
+e anal.jmp.tbl=false
+e bin.relocs.apply=false
+e bin.relocs=false
+e anal.emu=false
+e emu.str=false
+e anal.nopskip=false
+e asm.slow=false
+e asm.xrefs=false
+e asm.xrefs.code=false
+
+e asm.sub.rel=false
+e asm.sub.names=false
+e asm.sub.jmp=false
+e asm.sub.var=false

@@ -1,0 +1,9 @@
+#e log.level=3
+#e scr.demo=0
+e bin.relocs.apply=true
+e anal.jmp.tbl =false
+
+#radare session
+e emu.str=true
+e anal.fixed.bits=true
+e anal.fixed.arch=true
